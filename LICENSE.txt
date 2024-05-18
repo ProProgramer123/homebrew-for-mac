@@ -1,4 +1,5 @@
-# Licence added by: https://github.com/Homebrew/brew
+Licence added by: https://github.com/Homebrew/brew
+I do not own brew. Or Homebrew.
 
 BSD 2-Clause License
 
